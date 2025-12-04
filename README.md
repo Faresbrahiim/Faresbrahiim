@@ -13,7 +13,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🎮🎨 Anime • Gaming • Art
 
    **Anime fan** — I love the vibes, the creativity, and the storytelling. (one piece 3amakk)
+   
 🎮 **Gamer** — competitive sometimes, chill most of the time.  
+
 🎨 **Art lover** — aesthetics, colors, and character designs inspire how I build things.
+
 
 ##it seems always imposible until its done
