@@ -1,89 +1,15 @@
-<!-- Right-side profile image -->
-<img align="right" src="luffy.gif" width="180"/>
-
-# Fares Ibrahim
-
-Turning coffee into code since 2022 
-
-
-
-##  What I'm up to
-
--  **Currently:** Building a gym application with AI-powered recommendations (meals & workouts)  
--  **Learning:** Rust and low-level system concepts  
--  **Looking to collaborate on:** Backend, AI, and open-source projects  
--  **Thinking about:** Clean architecture and scalable system design  
--  **Ask me about:** Backend, databases, system design, debugging  
--  **How to reach me:** ibrahim.fares.dev@gmail.com  
-
----
-
-##  Competence & Interests
-
-**Backend**
-- APIs, microservices, clean architecture, databases  
-
-**Frontend**
-- Web UI, React/Next.js, UX   
-
-**AI & Machine Learning**
-- Recommendation systems  
-- Data processing and models  
-
-**Systems & Tools**
-- Rust, Linux, Docker, Git  ...
-
----
-
-##  My Philosophy
-
-> "Write code that your future self will thank you for."
-
-I believe in:
-- **Clean code over clever code**
-- **Simple architecture over overengineering**
-- **Documentation that actually helps**
-- **Tests that save future pain**
-
----
-
-##  Recent Adventures
-
-###  Hot Takes
-- **On Monoliths vs Microservices:** Architecture should match scale, not trends  
-- **On Tabs vs Spaces:** Consistency > preference  
-- **On Frameworks:** Tools change, fundamentals stay  
-
-###  Currently Reading
-- "The Pragmatic Programmer"  
-- Rust documentation  
-- My old code (to understand past mistakes)  
-
----
-
-##  My approach to solving problems
-
-```javascript
-function solveProblem(problem) {
-    if (!problem) return "Define the problem first";
-
-    const steps = [
-        "Understand the requirements",
-        "Design the solution",
-        "Implement step by step",
-        "Test",
-        "Refactor",
-        "Document"
-    ];
-
-    return steps;
-}
-```
-## Let's Connect
-
-- **LinkedIn**: https://www.linkedin.com/in/ibrahimfares1/
-
-- **Email**  : ibrahim.fares.dev@gmail.com
-
-
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
+<div align="center">
+  <img src="field30b.png" width="25%" align="right" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello,+I+am+Ibrahim;I'm+a+Computer+Engineering+Student+%E2%9C%A9" width="70%" />
+  <br><br>
+  <pre>
+    🎓 Computer Engineering Student • AI & Software Developer
+    💻 Machine Learning • Backend & Web Development
+    🤖 Artificial Intelligence 
+    🧠 LeetCode • Projects 
+    🎮 Anime • Art • coding
+  </pre>
+  <br><br>
+  <img src="luffy.gif" height="70" />
+  <br><br><br>
+</div>
