@@ -5,9 +5,9 @@
 
 Turning coffee into code since 2022 
 
----
 
-## 🚀 What I'm up to
+
+##  What I'm up to
 
 -  **Currently:** Building a gym application with AI-powered recommendations (meals & workouts)  
 -  **Learning:** Rust and low-level system concepts  
