@@ -1,19 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is fares ibrahim
-=====================================================================================================================================
+<!-- Right-side profile image -->
+<img align="right" src="luffy.gif" width="140"/>
 
-* 🌍  I'm based in Oujda Morocco
-* ✉️  You can contact me at [hmsteven37@gmail.com](mailto:fares.ibrahim.dev@gmail.com)
-* 🧠  I'm learning RUST
+# Fares Ibrahim
 
-## 🎮🎨 Anime  • Art
+Turning coffee into code since 2022 
 
-   **Anime fan** — I love the vibes, the creativity, and the storytelling.  - one piece fan  
-   **Art lover** — aesthetics, colors, and character designs inspire how I build things.
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" title="Rust"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+---
+
+## 🚀 What I'm up to
+
+-  **Currently:** Building a gym application with AI-powered recommendations (meals & workouts)  
+-  **Learning:** Rust and low-level system concepts  
+-  **Looking to collaborate on:** Backend, AI, and open-source projects  
+-  **Thinking about:** Clean architecture and scalable system design  
+-  **Ask me about:** Backend, databases, system design, debugging  
+-  **How to reach me:** ibrahim.fares.dev@gmail.com  
+
+---
+
+##  Competence & Interests
+
+**Backend**
+- APIs, microservices, clean architecture, databases  
+
+**Frontend**
+- Web UI, React/Next.js, UX basics  
+
+**AI & Machine Learning**
+- Recommendation systems  
+- Data processing and model basics  
+
+**Systems & Tools**
+- Rust, Linux, Docker, Git  
+
+---
+
+##  My Philosophy
+
+> "Write code that your future self will thank you for."
+
+I believe in:
+- **Clean code over clever code**
+- **Simple architecture over overengineering**
+- **Documentation that actually helps**
+- **Tests that save future pain**
+
+---
+
+##  Recent Adventures
+
+###  Hot Takes
+- **On Monoliths vs Microservices:** Architecture should match scale, not trends  
+- **On Tabs vs Spaces:** Consistency > preference  
+- **On Frameworks:** Tools change, fundamentals stay  
+
+###  Currently Reading
+- "The Pragmatic Programmer"  
+- Rust documentation  
+- My old code (to understand past mistakes)  
+
+---
+
+##  Creative Corner
+
+```javascript
+// My approach to solving problems
+function solveProblem(problem) {
+    if (!problem) return "Define the problem first";
+
+    const steps = [
+        "Understand the requirements",
+        "Design the solution",
+        "Implement step by step",
+        "Test",
+        "Refactor",
+        "Document"
+    ];
+
+    return steps;
+}
+```
+## Let's Connect
+
+- **LinkedIn**: https://linkedin.com/in/yourprofile
+
+- **Email**  : ibrahim.fares.dev@gmail.com
+
+- **GitHub** : https://github.com/yourusername
 
 
 
-### it seems always imposible until it's done
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
