@@ -1,5 +1,5 @@
 <!-- Right-side profile image -->
-<img align="right" src="luffy.gif" width="140"/>
+<img align="right" src="luffy.gif" width="180"/>
 
 # Fares Ibrahim
 
@@ -24,14 +24,14 @@ Turning coffee into code since 2022
 - APIs, microservices, clean architecture, databases  
 
 **Frontend**
-- Web UI, React/Next.js, UX basics  
+- Web UI, React/Next.js, UX   
 
 **AI & Machine Learning**
 - Recommendation systems  
-- Data processing and model basics  
+- Data processing and models  
 
 **Systems & Tools**
-- Rust, Linux, Docker, Git  
+- Rust, Linux, Docker, Git  ...
 
 ---
 
@@ -61,10 +61,9 @@ I believe in:
 
 ---
 
-##  Creative Corner
+##  My approach to solving problems
 
 ```javascript
-// My approach to solving problems
 function solveProblem(problem) {
     if (!problem) return "Define the problem first";
 
@@ -82,12 +81,9 @@ function solveProblem(problem) {
 ```
 ## Let's Connect
 
-- **LinkedIn**: https://linkedin.com/in/yourprofile
+- **LinkedIn**: https://www.linkedin.com/in/ibrahimfares1/
 
 - **Email**  : ibrahim.fares.dev@gmail.com
-
-- **GitHub** : https://github.com/yourusername
-
 
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
