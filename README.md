@@ -5,8 +5,8 @@
   <pre>
    🎓 Computer Engineering Student 
    🤖 Machine Learning • Web Development • Systems  
-   🧠 Projects • Open Source • Problem Solving
-   🎮 Anime • Art  
+   🧠 Projects  • Problem Solving
+   🎮 Anime • Art   • chess
   </pre>
   <br><br>
   <img src="luffy.gif" height="120"  style="border-radius: 12px;"/>
